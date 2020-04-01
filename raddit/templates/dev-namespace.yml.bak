@@ -1,0 +1,8 @@
+# helm does not support creating namespaces via yml
+# use 'help -n dev' to create (if not existed) namespace for this installation
+
+# apiVersion: v1
+# kind: Namespace
+# metadata:
+#   name: dev
+    
